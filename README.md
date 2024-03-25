@@ -15,7 +15,7 @@ I'm passionate about programming and love diving into both game development and 
 - You can ask me anything **[here](https://github.com/l7nnin/l7nnin/issues)**
 - Or send me a message on Discord: **L7nnin**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l7nnin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l7nnin&size_weight=0.5&count_weight=0.5)
-[![Top Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=l7nnin&repo=BugPack-Website)](https://github.com/l7nnin/BugPack-Website.git)
-[![Top Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=l7nnin&repo=LuaCalculator)](https://github.com/l7nnin/LuaCalculator.git)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l7nnin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l7nnin&size_weight=0.5&count_weight=0.5&theme=radical)
+[![Top Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=l7nnin&repo=BugPack-Website&theme=radical)](https://github.com/l7nnin/BugPack-Website.git)
+[![Top Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=l7nnin&repo=LuaCalculator&theme=radical)](https://github.com/l7nnin/LuaCalculator.git)
