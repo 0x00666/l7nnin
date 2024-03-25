@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @l7nnin
+- 👀 I’m interested in Game Development and Web Development
+- 🌱 I’m currently learning Lua, Next.js, and many more
+- 📫 How to reach me: drop me a message on discord "L7nnin"
+- 😄 Pronouns: per/feito
